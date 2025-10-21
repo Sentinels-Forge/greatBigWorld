@@ -1,2 +1,4 @@
-# greatBigWorld
-A website to allow players to do the calculations themselves
+# Great Big World
+**How to use:** <br>
+
+# Contributors:
